@@ -1,0 +1,12 @@
+C:\Users\TOOSCOM\source\repos\projectPAge149Finally\projectPAge149Finally\bin\Debug\projectPAge149Finally.exe.config
+C:\Users\TOOSCOM\source\repos\projectPAge149Finally\projectPAge149Finally\bin\Debug\projectPAge149Finally.exe
+C:\Users\TOOSCOM\source\repos\projectPAge149Finally\projectPAge149Finally\bin\Debug\projectPAge149Finally.pdb
+C:\Users\TOOSCOM\source\repos\projectPAge149Finally\projectPAge149Finally\obj\Debug\projectPAge149Finally.csproj.AssemblyReference.cache
+C:\Users\TOOSCOM\source\repos\projectPAge149Finally\projectPAge149Finally\obj\Debug\projectPAge149Finally.Form1.resources
+C:\Users\TOOSCOM\source\repos\projectPAge149Finally\projectPAge149Finally\obj\Debug\projectPAge149Finally.Properties.Resources.resources
+C:\Users\TOOSCOM\source\repos\projectPAge149Finally\projectPAge149Finally\obj\Debug\projectPAge149Finally.csproj.GenerateResource.cache
+C:\Users\TOOSCOM\source\repos\projectPAge149Finally\projectPAge149Finally\obj\Debug\projectPAge149Finally.csproj.CoreCompileInputs.cache
+C:\Users\TOOSCOM\source\repos\projectPAge149Finally\projectPAge149Finally\obj\Debug\projectPAge149Finally.exe
+C:\Users\TOOSCOM\source\repos\projectPAge149Finally\projectPAge149Finally\obj\Debug\projectPAge149Finally.pdb
+C:\Users\TOOSCOM\source\repos\projectPAge149Finally\projectPAge149Finally\obj\Debug\projectPAge149Finally.LoginForm.resources
+C:\Users\TOOSCOM\source\repos\projectPAge149Finally\projectPAge149Finally\obj\Debug\projectPAge149Finally.foundForm.resources
